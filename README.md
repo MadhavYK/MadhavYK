@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Madhav Yuvraj Kaushal 
+- 👀 I’m interested in software development, FinTech, and innovation in technology.
+- 🌱 I’m currently learning Python, cloud computing (AWS/Azure), and exploring data science techniques.
+- 💞️ I’m looking to collaborate on projects related to FinTech, automation, or anything tech that sparks innovation.
+- 📫 How to reach me: madhavyk@gmail.com , www.linkedin.com/in/madhav-y-kaushal-376112173
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new tech and experimenting with small projects to solve real-world problems!
